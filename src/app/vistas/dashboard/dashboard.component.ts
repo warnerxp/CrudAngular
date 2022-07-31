@@ -21,7 +21,6 @@ export class DashboardComponent implements OnInit {
   }
 
   editarPaciente(id){
-    console.log(id);
     this.router.navigate(['editar',id]);
   }
 

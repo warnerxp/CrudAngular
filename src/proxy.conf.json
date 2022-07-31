@@ -1,0 +1,6 @@
+{
+    "/api": {
+    "target": "https://api.solodata.es/pacientes",
+    "secure": false
+    }
+    }
